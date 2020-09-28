@@ -1,6 +1,7 @@
 {
     "name": "emanuelerangan/dusty",
     "description": "A WordPress starter repo which uses Composer and Docker.",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Rob Waller",
